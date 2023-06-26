@@ -100,7 +100,7 @@ Key client/server interaction logic and the use of UsersService via Spring Conte
 
 Server application architecture (client application is at the developer's discretion):
 
-- Char
+- Chat
     - SocketServer
         - src
             - main
